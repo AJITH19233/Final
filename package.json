@@ -1,5 +1,6 @@
 {
   "name": "server",
+  "homepage":"https://tense-gray-handbag.cyclic.app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
